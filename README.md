@@ -28,6 +28,7 @@ echo $generalInfo["theme_layout"];
 echo $generalInfo['theme_style'];  
 //return one of values {style1,style2,style3,..}
 ?>
+
 Note: Add Theme Style: add new value from line 23 in frontend/t2-frame/default/template/titan/container/general.phtml
 
 + Get Enable Top Bar: 
